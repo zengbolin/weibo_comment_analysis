@@ -5,7 +5,7 @@
 ### **上手指南**
 
 1. 建立mysql数据库，源码中账户与密码皆为root
-2. 对**https://weibo.com**进行数据挖掘
+2. 对 **https://weibo.com** 进行数据挖掘
 3. 下载500w基础微博预料，[下载地址](https://pan.baidu.com/share/init?errmsg=Auth+Login+Sucess&errno=0&ssnerror=0&&surl=eSeXh5K) => 提取密码为: tvdo，并导入mysql数据库
 4. 下载50w消极及50w积极.csv(已进行分类化)，下载链接：https://pan.baidu.com/s/1AOVB_kYkcbkDAEGjZ08v5Q  提取码：z5f0
 5. 具体分析以及部署请看论文部分
@@ -46,7 +46,9 @@ MySQL管理工具：SQLyog12.9
 
 ![1e51b1549b1d5bbfc9fbfaf873e2621.png](https://ae04.alicdn.com/kf/Hd8eca7c6601146a490e4e2a938866fbaI.png)
 
-![6e35fe84e48e29ad0e2f8f3fae50ac3.png](https://ae02.alicdn.com/kf/H3e96253773814161865d42b42b9b8e8do.png)![8a57866235bd804db5acb2635feaa94.png](https://ae05.alicdn.com/kf/H91648a9e35544ef7b63978ad03481824C.png)
+![6e35fe84e48e29ad0e2f8f3fae50ac3.png](https://ae02.alicdn.com/kf/H3e96253773814161865d42b42b9b8e8do.png)
+
+![8a57866235bd804db5acb2635feaa94.png](https://ae05.alicdn.com/kf/H91648a9e35544ef7b63978ad03481824C.png)
 
 ![33780f0d9597b63e040812563be6920.png](https://ae04.alicdn.com/kf/He6d588cd86b04d519d4b78bd2ed9c2b5S.png)
 
