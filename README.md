@@ -42,31 +42,24 @@ MySQL管理工具：SQLyog12.9
 
 **数据可视化(以广东第二师范学院微博为例)**
 
-![数据展示](https://ae03.alicdn.com/kf/H566b1b8f21da4b45a0e12f670515a156d.png)
+![数据展示0](https://ae03.alicdn.com/kf/H566b1b8f21da4b45a0e12f670515a156d.png)
 
-![1e51b1549b1d5bbfc9fbfaf873e2621.png](https://ae04.alicdn.com/kf/Hd8eca7c6601146a490e4e2a938866fbaI.png)
+![数据展示1](https://ae04.alicdn.com/kf/Hd8eca7c6601146a490e4e2a938866fbaI.png)
 
-![6e35fe84e48e29ad0e2f8f3fae50ac3.png](https://ae02.alicdn.com/kf/H3e96253773814161865d42b42b9b8e8do.png)
+![数据展示2](https://ae02.alicdn.com/kf/H3e96253773814161865d42b42b9b8e8do.png)
 
-![8a57866235bd804db5acb2635feaa94.png](https://ae05.alicdn.com/kf/H91648a9e35544ef7b63978ad03481824C.png)
+![数据展示3](https://ae03.alicdn.com/kf/Hf04727e156284b32821d86cf9d8aecc7q.png)
 
-![33780f0d9597b63e040812563be6920.png](https://ae04.alicdn.com/kf/He6d588cd86b04d519d4b78bd2ed9c2b5S.png)
+![数据展示4](https://ae04.alicdn.com/kf/He6d588cd86b04d519d4b78bd2ed9c2b5S.png)
 
-![899b9954675eebeb0ca675b52f48b92.png](https://ae03.alicdn.com/kf/He04b837f3ee3485db403d4f994092a25K.png)
+![数据展示5](https://ae03.alicdn.com/kf/He04b837f3ee3485db403d4f994092a25K.png)
 
-![898422e6dc76d1589706b8809de85af.png](https://ae06.alicdn.com/kf/H53976cb6a1504ebb86e7af7785fd349bz.png)
+![数据展示7](https://ae01.alicdn.com/kf/Hb1b8c85a204c45cb932658dd3cf4f8adt.png)
 
-![a10796c9fddaf82d6b340b1812daef6.png](https://ae01.alicdn.com/kf/Hb1b8c85a204c45cb932658dd3cf4f8adt.png)
+![数据展示8](https://ae01.alicdn.com/kf/Hb340d91b3b9a4a1084ab8cf811aa9cb8w.png)
 
-![c7c4cf96751b17563a67b1cf7d7026a.png](https://ae01.alicdn.com/kf/Hb340d91b3b9a4a1084ab8cf811aa9cb8w.png)
-
-![ea2357e61c840ba0158c877adfaf73c.png](https://ae01.alicdn.com/kf/H3f3cb9293f614deeaa42cd241e04912f6.png)
+![数据展示9](https://ae01.alicdn.com/kf/H3f3cb9293f614deeaa42cd241e04912f6.png)
 
 **小结**
 
 实现了中文情感分析两种方法，其中建立的两个模型，通用性很强。只要将数据改成自己所要分析的数据，模型就能给予总体的分数。若换为淘宝京东等电商的购物评论，依旧可以使用第二章所用到的爬虫技术抓取相对应的数据，然后对数据使用这一章知识进行建模，得到专属于购物评论的模型。总体而言，效果基本达到预期。
-
-###### 
-
-
-
