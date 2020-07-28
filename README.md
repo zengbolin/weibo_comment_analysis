@@ -26,7 +26,7 @@ MySQL管理工具：SQLyog12.9
 
 **情感分析**
 
-![情感分析](https://ae01.alicdn.com/kf/H519ce8f4b14a412a8473d1475b3214f97.png)
+[![aEIVRx.jpg](https://s1.ax1x.com/2020/07/28/aEIVRx.jpg)](https://imgchr.com/i/aEIVRx)
 
 **中文情感分析建模**
 
@@ -42,23 +42,25 @@ MySQL管理工具：SQLyog12.9
 
 **数据可视化(以广东第二师范学院微博为例)**
 
-![数据展示0](https://ae03.alicdn.com/kf/H566b1b8f21da4b45a0e12f670515a156d.png)
+![aE52ad.png](https://s1.ax1x.com/2020/07/28/aE52ad.png)
 
-![数据展示1](https://ae04.alicdn.com/kf/Hd8eca7c6601146a490e4e2a938866fbaI.png)
+![aE5DxK.png](https://s1.ax1x.com/2020/07/28/aE5DxK.png)
 
-![数据展示2](https://ae02.alicdn.com/kf/H3e96253773814161865d42b42b9b8e8do.png)
+![aE5sKO.png](https://s1.ax1x.com/2020/07/28/aE5sKO.png)
 
-![数据展示3](https://ae03.alicdn.com/kf/Hf04727e156284b32821d86cf9d8aecc7q.png)
+![aE5B26.png](https://s1.ax1x.com/2020/07/28/aE5B26.png)
 
-![数据展示4](https://ae04.alicdn.com/kf/He6d588cd86b04d519d4b78bd2ed9c2b5S.png)
+![aE5gVH.png](https://s1.ax1x.com/2020/07/28/aE5gVH.png)
 
-![数据展示5](https://ae03.alicdn.com/kf/He04b837f3ee3485db403d4f994092a25K.png)
+![aE5yrD.png](https://s1.ax1x.com/2020/07/28/aE5yrD.png)
 
-![数据展示7](https://ae01.alicdn.com/kf/Hb1b8c85a204c45cb932658dd3cf4f8adt.png)
+![aE56qe.png](https://s1.ax1x.com/2020/07/28/aE56qe.png)
 
-![数据展示8](https://ae01.alicdn.com/kf/Hb340d91b3b9a4a1084ab8cf811aa9cb8w.png)
+![aE5RIA.png](https://s1.ax1x.com/2020/07/28/aE5RIA.png)
 
-![数据展示9](https://ae01.alicdn.com/kf/H3f3cb9293f614deeaa42cd241e04912f6.png)
+![aE54RP.png](https://s1.ax1x.com/2020/07/28/aE54RP.png)
+
+![aE5fPI.png](https://s1.ax1x.com/2020/07/28/aE5fPI.png)
 
 **小结**
 
